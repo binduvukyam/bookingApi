@@ -7,6 +7,5 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 public @Data class BookingDeleteResponse {
-
 	private String status;
 }
