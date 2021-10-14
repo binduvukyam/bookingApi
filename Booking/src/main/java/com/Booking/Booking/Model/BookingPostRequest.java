@@ -19,4 +19,6 @@ public @Data class BookingPostRequest {
 	private Unit unitValue;
 	private List<String> truckId;
 	private String bookingDate;
+	
+	
 }
