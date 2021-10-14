@@ -8,4 +8,6 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 public @Data class BookingDeleteResponse {
 	private String status;
+	
+	
 }
